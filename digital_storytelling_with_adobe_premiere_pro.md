@@ -92,7 +92,7 @@ Now that you've marked your clip, click on its icon, drag it to the timeline pan
 
 Repeat this process with another clip, dropping each clip onto the timeline at the end of the preceding clip. You'll notice that the clip "snaps" to the end of the preceding clip.
 
-*You might be aware that video's parameters can vary widely (e.g., frame rate, aspect ration, quality). The first clip you drop onto your timeline will set the parameters for your project. Each subsequent clip will be adapted to the first clip's properties.
+*You might be aware that video's parameters can vary widely (e.g., frame rate, aspect ratio, quality). The first clip you drop onto your timeline will set the parameters for your project. Each subsequent clip will be adapted to the first clip's properties.
 
 # 10 Two ways to add clips
 
