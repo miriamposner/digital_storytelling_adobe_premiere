@@ -19,7 +19,7 @@ Adobe Premiere uses a few terms in specific ways.
 
 When we're working with video, we spend a bit more time than usual setting up our files and folders. That's because video takes up so much space on your computer that you want to be sure you have enough room for both the original media and for the final product.
 
-It's a good idea to move all the media you plan to work with—audio, video, and photographs—into one folder (or a series of nested folders) either on your computer or on an external hard drive connected to your computer. This makes it easier for Adobe Premiere to find your file.
+It's a good idea to move all the media you plan to work with—audio, video, and photographs—into one folder (or a series of nested folders) either on your computer or on an external hard drive connected to your computer. This makes it easier for Adobe Premiere to find your file. Within your media folder, it's also a good idea to keep your various types of media as organized as you possibly can, in order to avoid confusion. (Remember that you should be keeping track of the sources of your media.)
 
 It's important to understand that when you work with media in Adobe Premiere, you're not really importing your media into the program; you're importing a *reference* to the original file on your computer. Premiere works this way in order to avoid making copies of files that are already pretty large. This also allows you to edit your project without modifying the original files. But it does mean that if you move your media around later, Premiere will get confused and ask you to re-link the media. So it's a good idea to leave your media in its original location until you're done editing your video. 
 
@@ -80,7 +80,7 @@ If you'd like, you can position your cursor over the image in the source monitor
 
 To prepare our clip, we'll **mark** it in order to select the range of video we want to use in the main project. Marking a clip doesn't cut it or change it; it's a bit like a note, indicating that you want something to happen at that point.
 
-In order to designate the range of source video we want to use, we'll use the **Mark in** and **Mark out** buttons. These indicate the section of the video we want to include in the larger sequence. You can add as many markers as you want, but each clip can have only one **Mark in** and one **Mark out** marker at a time. If you select the **mark in **and **mark out** buttons again on the same clip, you'll overwrite the previous markers.
+In order to designate the range of source video we want to use, we'll use the **Mark in** and **Mark out** buttons. These indicate the section of the video we want to include in the larger sequence. You can add as many markers as you want, but each clip can have only one **Mark in** and one **Mark out** marker at a time. If you select the **mark in** and **mark out** buttons again on the same clip, you'll overwrite the previous markers.
 
 Move the playhead through the clip until you identify a section you'd like to include in the main sequence. Then, move the playhead to the beginning of that section and press the **Mark in** button ( **{** ). At the end of the section, press the **Mark out** button. ( **}** ). You'll notice that the relevant section of the timeline is now highlighted.
 
