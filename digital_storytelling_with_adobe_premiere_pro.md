@@ -3,7 +3,7 @@
 
 Adobe Premiere Pro is a full-featured application for non-linear video editing. (Non-linear just means that you can work with clips in any order, without modifying them.) We won't use all of its features in this getting-started tutorial, but we'll learn how to assemble digital stories using videos, photos, titles, and simple audio.
 
-Later, if you'd like to expand your Premiere knowledge, you might be interested in the [books](https://learning.oreilly.com/home/?next=/library/view/Adobe-Premiere-Pro/9781681986883/) (rel=undefined target=undefined) or [videos](https://www.linkedin.com/learning/search?keywords=premiere%20pro&amp;u=95316746) (rel=undefined target=undefined) available to UCLA students.
+Later, if you'd like to expand your Premiere knowledge, you might be interested in the [books](https://learning.oreilly.com/home/?next=/library/view/Adobe-Premiere-Pro/9781681986883/) or [videos](https://www.linkedin.com/learning/search?keywords=premiere%20pro&amp;u=95316746) available to UCLA students.
 
 Adobe Premiere uses a few terms in specific ways.
 
@@ -150,7 +150,7 @@ For each audio track you'd like to mute, click the **M** in the relevant track c
 
 From your project panel at the left of your window, click on a still image and drag it to the timeline to drop into your video. You'll notice that photographs have a default duration, which you can change by dragging the borders of the image on the timeline.
 
-(If you have a folder of images you'd like to import as a sequence, [here's](https://www.editvideofaster.com/premiere-pro-import-image-sequence/) (rel=undefined target=undefined) a faster way to import them. [Here](https://www.filmeditingpro.com/the-editors-guide-to-working-with-still-images-in-premiere-pro/) (rel=undefined target=undefined) is a more detailed walkthrough of Premiere's still-image editing features.)
+(If you have a folder of images you'd like to import as a sequence, [here's](https://www.editvideofaster.com/premiere-pro-import-image-sequence/) a faster way to import them. [Here](https://www.filmeditingpro.com/the-editors-guide-to-working-with-still-images-in-premiere-pro/) is a more detailed walkthrough of Premiere's still-image editing features.)
 
 # 15 Apply effects to an image (1)
 
@@ -182,7 +182,7 @@ Press play on the main timeline to see your effect in action.
 
 If you'd like, you can experiment with the other effects to see them in action. You can reset each item by clicking on the reset arrow just to the right of the keyframe controls.
 
-You can read more about effects [here](https://helpx.adobe.com/premiere-pro/using/adding-navigating-setting-keyframes.html) (rel=undefined target=undefined).
+You can read more about effects [here](https://helpx.adobe.com/premiere-pro/using/adding-navigating-setting-keyframes.html).
 
 # 17 Add a title (1)
 
@@ -216,7 +216,7 @@ To add a title to a blank video layer, move the playhead to a blank spot on your
 
 You can move your title track around the same way as you did a video layer.
 
-You can read more about titles, including how to make animated titles, [here](https://creativecloud.adobe.com/cc/discover/article/easily-add-animated-titles-with-premiere-pro?locale=en) (rel=undefined target=undefined).
+You can read more about titles, including how to make animated titles, [here](https://creativecloud.adobe.com/cc/discover/article/easily-add-animated-titles-with-premiere-pro?locale=en).
 
 # 20 Add an audio track
 
